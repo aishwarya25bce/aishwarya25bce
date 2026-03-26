@@ -1,4 +1,4 @@
-# Hi, I'm Aishwarya Prasad 👋
+# Hi, I'm Aishwarya Prasad 
 
 🎓 B.Tech CSE (Core) Student | 1st Year  
 💻 Exploring Software Development, Networking & ML  
