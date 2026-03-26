@@ -33,7 +33,7 @@ Curious developer focused on building practical solutions and strengthening core
 - Identifies IP class and type  
 - Detects public vs private addresses  
 - Helps understand networking fundamentals
-- - Demonstrates communication across VLANs  
+- Demonstrates communication across VLANs  
 
 ---
 
