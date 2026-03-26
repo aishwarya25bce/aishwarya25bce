@@ -1,17 +1,17 @@
 # Hi, I'm Aishwarya Prasad 
 
-🎓 B.Tech CSE (Core) Student | 1st Year  
-💻 Exploring Software Development, Networking & ML  
-🚀 Building real-world projects and learning by doing  
+ B.Tech CSE (Core) Student | 1st Year  
+ Exploring Software Development, Networking & ML  
+ Building real-world projects and learning by doing  
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 Curious developer focused on building practical solutions and strengthening core concepts in programming and networking.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - Python  
 - Java  
 - Data Structures & Problem Solving  
@@ -19,9 +19,9 @@ Curious developer focused on building practical solutions and strengthening core
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔐 URL Risk Analyzer
+###  URL Risk Analyzer
 - Input URL or scan QR to extract link  
 - Checks against known malicious sources  
 - Assigns dynamic **risk score**  
@@ -29,7 +29,7 @@ Curious developer focused on building practical solutions and strengthening core
 
 ---
 
-### 🌐 IP Address Analyzer & VLAN Communication
+###  IP Address Analyzer & VLAN Communication
 - Identifies IP class and type  
 - Detects public vs private addresses  
 - Helps understand networking fundamentals
@@ -37,16 +37,16 @@ Curious developer focused on building practical solutions and strengthening core
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 - Improving DSA  
 - Building more real-world projects  
 - Exploring Machine Learning  
 
 ---
 
-## 📫 Connect
+##  Connect
 - LinkedIn: https://www.linkedin.com/in/aishwarya-prasad-86b0b0380/?skipRedirect=true
 
 ---
 
-⭐ *Learning. Building. Improving.*
+ *Learning. Building. Improving.*
