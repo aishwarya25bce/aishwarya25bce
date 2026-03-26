@@ -1,35 +1,52 @@
 # Hi, I'm Aishwarya Prasad 👋
 
-🎓 B.Tech CSE(Core) Student  
-📍 1st Year  
+🎓 B.Tech CSE (Core) Student | 1st Year  
+💻 Exploring Software Development, Networking & ML  
+🚀 Building real-world projects and learning by doing  
 
-💡 I am passionate about learning programming, software development, machine learning, and building real-world projects.
+---
 
-## 🚀 Skills
-- Python
-- Java (Basics)
-- Problem Solving (Beginner)
+## 👩‍💻 About Me
+Curious developer focused on building practical solutions and strengthening core concepts in programming and networking.
 
-## 🎯 Goals
-- Strengthen programming fundamentals  
-- Learn advanced software development  
-- Build real-world projects  
-- Explore AI & new technologies  
+---
 
-## 📫 Connect with me
+## 🛠️ Skills
+- Python  
+- Java  
+- Data Structures & Problem Solving  
+- Networking Basics  
+
+---
+
+## 🚀 Projects
+
+### 🔐 URL Risk Analyzer
+- Input URL or scan QR to extract link  
+- Checks against known malicious sources  
+- Assigns dynamic **risk score**  
+- Community-based reporting system for unsafe links  
+
+---
+
+### 🌐 IP Address Analyzer & VLAN Communication
+- Identifies IP class and type  
+- Detects public vs private addresses  
+- Helps understand networking fundamentals
+- - Demonstrates communication across VLANs  
+
+---
+
+## 🎯 Current Focus
+- Improving DSA  
+- Building more real-world projects  
+- Exploring Machine Learning  
+
+---
+
+## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/aishwarya-prasad-86b0b0380/?skipRedirect=true
 
-<!--
-**aishwarya25bce/aishwarya25bce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Learning. Building. Improving.*
